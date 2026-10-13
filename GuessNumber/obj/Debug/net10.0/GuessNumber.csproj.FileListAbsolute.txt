@@ -1,0 +1,15 @@
+C:\Users\User\documents\Lab05_Conditions\GuessNumber\bin\Debug\net10.0\GuessNumber.exe
+C:\Users\User\documents\Lab05_Conditions\GuessNumber\bin\Debug\net10.0\GuessNumber.deps.json
+C:\Users\User\documents\Lab05_Conditions\GuessNumber\bin\Debug\net10.0\GuessNumber.runtimeconfig.json
+C:\Users\User\documents\Lab05_Conditions\GuessNumber\bin\Debug\net10.0\GuessNumber.dll
+C:\Users\User\documents\Lab05_Conditions\GuessNumber\bin\Debug\net10.0\GuessNumber.pdb
+C:\Users\User\documents\Lab05_Conditions\GuessNumber\obj\Debug\net10.0\GuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\documents\Lab05_Conditions\GuessNumber\obj\Debug\net10.0\GuessNumber.AssemblyInfoInputs.cache
+C:\Users\User\documents\Lab05_Conditions\GuessNumber\obj\Debug\net10.0\GuessNumber.AssemblyInfo.cs
+C:\Users\User\documents\Lab05_Conditions\GuessNumber\obj\Debug\net10.0\GuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\documents\Lab05_Conditions\GuessNumber\obj\Debug\net10.0\GuessNumber.sourcelink.json
+C:\Users\User\documents\Lab05_Conditions\GuessNumber\obj\Debug\net10.0\GuessNumber.dll
+C:\Users\User\documents\Lab05_Conditions\GuessNumber\obj\Debug\net10.0\refint\GuessNumber.dll
+C:\Users\User\documents\Lab05_Conditions\GuessNumber\obj\Debug\net10.0\GuessNumber.pdb
+C:\Users\User\documents\Lab05_Conditions\GuessNumber\obj\Debug\net10.0\GuessNumber.genruntimeconfig.cache
+C:\Users\User\documents\Lab05_Conditions\GuessNumber\obj\Debug\net10.0\ref\GuessNumber.dll
